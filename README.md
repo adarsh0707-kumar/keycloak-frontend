@@ -68,3 +68,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+---
+
+## 🙏 Thank You
+
+Thank you for checking out this project!
+I hope this frontend implementation helps you understand how to integrate **Keycloak authentication with your application UI**.
+
+If you found this project helpful, please ⭐ the repo and share it with your network!
+
+---
+
+## 🤝 Connect With Me
+
+Feel free to connect with me and explore more of my work:
+
+* 💻 **GitHub:** [https://github.com/adarsh0707-kumar](https://github.com/adarsh0707-kumar)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/adarsh-kumar-657315251](https://www.linkedin.com/in/adarsh-kumar-657315251)
+* 📸 **Instagram:** [https://www.instagram.com/i_.a_k](https://www.instagram.com/i_.a_k)
+
+I’m always open to learning, collaboration, and new opportunities.
+
+---
+
+## 🛠️ Feedback & Contributions
+
+If you have ideas to improve this project or run into issues, feel free to open an issue or submit a pull request — contributions are welcome! 🚀
+
+**Thanks again for visiting and using this project! 😊**
+
+---
+
